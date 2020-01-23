@@ -1,4 +1,4 @@
-<p align="left">It is a very simple app to be know how to use nest js in applications.
+<p align="left">It is a very simple app which let me know how to use nest-js in applications. thank you.
   
 ## Description
 
